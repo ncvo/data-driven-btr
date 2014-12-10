@@ -1,0 +1,18 @@
+Person	^Jo(n|hn|nathon|e|seph)? 
+Person	^Dav(id|e) 
+Person	^Ste(ven?|phen|phan) 
+NHS Trust	N\.?H\.?S\.?(.*)Trust\.?$
+NHS Trust	Primary Care Trust\.?$
+NHS Trust	P\.?C\.?T\.?$
+Local Authority	 (County|District|Metropolitan|Borough|Metropolitan Borough|City) Council\.?$
+Parochial Church Council	 Parochial Church Council\.?$
+Parochial Church Council	 P\.?C\.?C\.?$
+Town Council	 Town Council\.?$
+Parish Council	 Parish Council\.?$
+Scout Council	 Scout Council\.?$
+School	 (Primary|Secondary|Infant|Junior|High|Girls'?|Boys'?|Church of England|CofE|C of E) School\.?$
+University (^University of|^The University of| University$|^UNIVERSITY COLLEGE|^Imperial COLLEGE|^KING'S COLLEGE LONDON)
+Pre-school	(Nursery|Pre-?school|Kindergarden|Kindergarten)
+Village Hall	 (Village|Parish|Memorial) Hall$
+YMCA	(Y\.?(M|W)\.?C\.?A\.?|Young (wo)?men'?s Christian Association)
+Residents Association	Resident'?s'? association
